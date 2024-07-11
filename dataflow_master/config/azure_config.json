@@ -1,0 +1,5 @@
+{
+    "azure_storage_account_name": "zmabustorage",
+    "azure_storage_account_key": "insertStorageAccessKeyHere",
+    "blob_container_name": "zmabublob"
+}
